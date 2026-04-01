@@ -24,7 +24,7 @@
 
      div.campo > input{
         height: 95%;
-        transform: translateY(-12px);
+        
     }
     }
 
@@ -60,7 +60,7 @@
 
     div.campo > input{
         height: 95%;
-        transform: translateY(-12px);
+       
     }
 
 }
